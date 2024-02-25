@@ -11,6 +11,7 @@ const dummyConcertData = [
     locationType: "KOREA",
     location: "OLYMPIC PARK",
     price: 100.0,
+    approved: true,
   },
   {
     slug: "dummy-concert2",
